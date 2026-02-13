@@ -1,0 +1,4 @@
+hw 01 repo location
+--------------------
+
+https://github.com/scottpham1029/CS3338-Homework-1
